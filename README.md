@@ -1,5 +1,4 @@
 
-tags : Ressources, OSINT
 ---
 
 ![](https://hedgedoc.raltheo.fr/uploads/34fec1da-d76f-4e17-92d5-ea2c1186ff1c.png)
