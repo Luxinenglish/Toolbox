@@ -12,6 +12,8 @@ OSINT plonge dans l'art de la collecte d'informations ouvertes. Explorez la rech
 * [CTF Osint FR ](https://ctf.challenge-osint.fr/)
 * [Osint- FR](https://osintfr.com/fr/accueil/)
 * [IsFred](https://isfred.fr/)
+* [HTB](https://www.hackthebox.com/)
+* [RM](https://root-me.org)
 ## Hors categories
 * [HaveIBeenPwned](https://haveibeenpwned.com)
 * [Public OSINT-API](https://github.com/cipher387/API-s-for-OSINT/?tab=readme-ov-file#flights) 
