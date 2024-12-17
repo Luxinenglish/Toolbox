@@ -17,7 +17,7 @@ Bienvenue sur le **Toolbox Repository**, un dépôt conçu pour vous aider à tr
 L'OSINT, ou Open Source Intelligence, consiste à collecter et analyser des informations disponibles publiquement pour répondre à un besoin spécifique. Ces informations peuvent provenir de réseaux sociaux, de forums, de bases de données ouvertes, ou d'autres sources accessibles sur Internet.  
 
 **Ressources et outils recommandés :**  
-- [Fiche explicative OSINT](https://exemple.com/fiche-osint)  
+- [Fiche explicative OSINT](https://github.com/luxinenglish/blob/main/Osint.md)  
 - [Amass](https://github.com/OWASP/Amass) : Cartographie des sous-domaines.  
 - [Sherlock](https://github.com/sherlock-project/sherlock) : Recherche de profils sur les réseaux sociaux.  
 
