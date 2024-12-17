@@ -16,8 +16,8 @@ Bienvenue sur le **Toolbox Repository**, un dépôt conçu pour vous aider à tr
 **Description :**  
 L'OSINT, ou Open Source Intelligence, consiste à collecter et analyser des informations disponibles publiquement pour répondre à un besoin spécifique. Ces informations peuvent provenir de réseaux sociaux, de forums, de bases de données ouvertes, ou d'autres sources accessibles sur Internet.  
 
-**Ressources et outils recommandés :**  
-- [Fiche Toolbox](https://github.com/luxinenglish/blob/main/Osint.md)  
+**Ressources :**  
+- [Fiche Toolbox](https://github.com/Luxinenglish/Toolbox/blob/main/Osint.md)  
 
 ---
 
@@ -25,22 +25,16 @@ L'OSINT, ou Open Source Intelligence, consiste à collecter et analyser des info
 **Description :**  
 Cette catégorie regroupe des outils et techniques pour tester la sécurité des serveurs web. L'objectif est de détecter des vulnérabilités comme l'injection SQL, les failles XSS ou les configurations faibles.  
 
-**Ressources et outils recommandés :**  
-- [Fiche explicative Hack Serveur Web](https://exemple.com/fiche-hack-webserver)  
-- [Nikto](https://github.com/sullo/nikto) : Analyse des vulnérabilités des serveurs web.  
-- [Burp Suite](https://portswigger.net/burp) : Proxy et analyseur de requêtes HTTP.  
-
+**Ressources :**  
+- [Fiche ToolBox](https://exemple.com/fiche-hack-webserver)  
 ---
 
 ## 🌐 Web Client  
 **Description :**  
 Le hacking côté client cible les navigateurs et les interactions utilisateur avec les applications web. Les attaques courantes incluent le phishing, les attaques CSRF ou les scripts malveillants injectés dans les pages web.  
 
-**Ressources et outils recommandés :**  
-- [Fiche explicative Web Client](https://exemple.com/fiche-webclient)  
-- [BeEF (Browser Exploitation Framework)](https://github.com/beefproject/beef) : Framework pour exploiter les vulnérabilités des navigateurs.  
-- [Fiddler](https://www.telerik.com/fiddler) : Débogueur de trafic HTTP/HTTPS.  
-
+**Ressources :**  
+- [Fiche explicative Web Client](https://github.com/Luxinenglish/Toolbox/blob/main/WebClient.md)  
 ---
 
 ## 📂 Autres catégories  
