@@ -72,3 +72,7 @@ OSINT plonge dans l'art de la collecte d'informations ouvertes. Explorez la rech
 ## À suivre 
 1. [Root-ME_feed](https://twitter.com/rootme_org)
 2. [Root-ME](https://root-me.org)
+### Remerciements:
+à la PROZHACK
+à OIY
+pour m'avoir partager cette toolbox
