@@ -34,7 +34,7 @@ Cette catégorie regroupe des outils et techniques pour tester la sécurité des
 Le hacking côté client cible les navigateurs et les interactions utilisateur avec les applications web. Les attaques courantes incluent le phishing, les attaques CSRF ou les scripts malveillants injectés dans les pages web.  
 
 **Ressources :**  
-- [Fiche explicative Web Client](https://github.com/Luxinenglish/Toolbox/blob/main/WebClient.md)  
+- [Fiche ToolBox](https://github.com/Luxinenglish/Toolbox/blob/main/WebClient.md)  
 ---
 
 ## 📂 Autres catégories  
