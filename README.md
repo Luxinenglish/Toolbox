@@ -51,8 +51,10 @@ Voici d'autres domaines pour lesquels vous trouverez des outils et fiches explic
 Vous avez des idées d'outils ou des ressources intéressantes ? N'hésitez pas à contribuer en soumettant une pull request ou en ouvrant une issue.  
 
 ---
+**Remerciements :**  
+Un grand merci à la team **PROZHACK** pour leur soutien, et plus particulièrement à **OIY** pour son incroyable fiche OSINT. 🙏  
+
+---
 
 **Note :** Ce dépôt est à but éducatif. Les outils listés ici doivent être utilisés dans le respect des lois en vigueur et uniquement dans des environnements autorisés.  
 
----
-**Lien vers le projet principal :** [GitHub Toolbox Repository](https://github.com/tonrepo)  
