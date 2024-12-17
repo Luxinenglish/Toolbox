@@ -5,9 +5,9 @@ Bienvenue sur le **Toolbox Repository**, un dépôt conçu pour vous aider à tr
 ---
 
 ## 📚 Table des matières  
-- [OSINT (Open Source Intelligence)](https://github.com/Luxinenglish/Toolbox/blob/main/Osint.md)  
+- [OSINT (Open Source Intelligence)](#osint-open-source-intelligence)  
 - [Hack de serveurs web](#hack-de-serveurs-web)  
-- [Web Client](https://github.com/Luxinenglish/Toolbox/blob/main/WebClient.md)  
+- [Web Client](#web-client)  
 - [Autres catégories](#autres-catégories)  
 
 ---
